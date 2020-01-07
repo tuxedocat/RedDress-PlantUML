@@ -87,6 +87,7 @@ skinparam backgroundColor 777
   fontSize FONTSIZE
   stereotypeFontColor SECONDARY
   stereotypeFontSize FONTSIZE
+  titleFontName FONTNAME
 !endfunction
 
 !function basic_style()
